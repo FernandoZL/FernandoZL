@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @FernandoZL
-- 👀 I’m interested in ... #Python, #C, #C++, #PHP
-- 🌱 I’m currently learning ...#Python and PHP 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# ¡Hola! 👋 Soy @FernandoZL
 
-<!---
-FernandoZL/FernandoZL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Acerca de mí
+Soy un apasionado de la programación y estoy interesado en diversos lenguajes de programación, incluyendo Python, C, C++ y PHP. Actualmente, estoy enfocado en mejorar mis habilidades en Python y PHP, y explorando diferentes proyectos y desafíos relacionados con estos lenguajes.
+
+## Proyectos
+- Actualmente, estoy trabajando en [mencionar aquí los proyectos en los que estás trabajando actualmente o destacar uno en particular].
+
+## Colaboración
+Si estás interesado en colaborar en alguno de mis proyectos o si tienes alguna idea en mente en la que crees que pueda aportar, no dudes en contactarme.
+
+## Cómo contactarme
+Puedes contactarme a través de los siguientes medios:
+- Email: [tu dirección de correo electrónico]
+- LinkedIn: [tu perfil de LinkedIn]
+- [otros medios de contacto que desees incluir]
+
+¡Espero poder conectar contigo y trabajar juntos en proyectos emocionantes! 😄
