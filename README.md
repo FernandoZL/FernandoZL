@@ -1,23 +1,133 @@
-<!-- Encabezado -->
-# ¡Hola, soy FernandoZL! 👋
+<div align="center">
 
-<!-- Acerca de mí -->
-## Acerca de mí
-Soy un apasionado desarrollador de software con experiencia en diversos lenguajes de programación, incluyendo Python, C, C++ y PHP. Me encanta explorar nuevas tecnologías y aprender constantemente. Actualmente, estoy enfocado en mejorar mis habilidades en Python y estoy incursionando en el mundo de la automatización con UIpath y Power Automate.
+# Luis Fernándo Zuñiga
 
-<!-- Proyectos Destacados -->
-## Proyectos Destacados
-- 🔭 Actualmente estoy trabajando en proyectos de automatización con **UIpath** y **Power Automate**, y explorando formas de combinarlos con **Python** para crear soluciones más poderosas.
-- 🌱 Estoy aprendiendo análisis de datos y llevando cursos de **SQL**, **Power BI** y **Python**. Estoy emocionado por aplicar estas habilidades en proyectos de análisis de datos y visualización.
+### Estudiante de Ingeniería en Sistemas
 
-<!-- Colaboración -->
-## Colaboración
-¡Me encantaría colaborar contigo en proyectos interesantes relacionados con la automatización, análisis de datos o desarrollo de software! Si tienes alguna idea en mente en la que crees que pueda aportar, no dudes en contactarme. Estoy abierto a colaboraciones en proyectos de código abierto y desafíos emocionantes.
+`Tecnología` · `Desarrollo` · `Datos` · `Automatización` · `IA`
 
-<!-- Cómo contactarme -->
-## Cómo contactarme
-Puedes encontrarme en los siguientes canales:
-- 💼 [LinkedIn](https://www.linkedin.com/in/fernandozl/)
+**Aprender · Construir · Conectar · Mejorar**
 
-<!-- Emojis y Cierre -->
-¡Estoy emocionado por conectarme contigo y trabajar juntos en proyectos innovadores y desafiantes! 😄✨
+</div>
+
+---
+
+## `> whoami`
+
+Soy **Luis Fernándo Zuñiga**, estudiante de **Ingeniería en Sistemas**.
+
+Me interesa comprender cómo se conectan la tecnología, los datos y los procesos para convertirlos en soluciones funcionales, ordenadas y útiles.
+
+Mi camino combina desarrollo de software, análisis de datos, automatización, infraestructura y exploración de nuevas tecnologías.
+
+```ts
+const lfz = {
+  nombre: "Luis Fernándo Zuñiga",
+  rol: "Estudiante de Ingeniería en Sistemas",
+  enfoque: [
+    "Desarrollo de software",
+    "Datos y Business Intelligence",
+    "Automatización",
+    "Sistemas e infraestructura",
+    "Inteligencia Artificial"
+  ],
+  mentalidad: "Aprender → Construir → Conectar → Mejorar"
+};
+```
+
+---
+
+## `> knowledge_graph`
+
+```mermaid
+graph TD
+    LFZ((LFZ))
+
+    LFZ --> DATA[Datos]
+    LFZ --> DEV[Desarrollo]
+    LFZ --> SYS[Sistemas]
+    LFZ --> AUTO[Automatización]
+    LFZ --> AI[Inteligencia Artificial]
+
+    DATA --> BI[Business Intelligence]
+    DATA --> SQL[SQL]
+
+    DEV --> WEB[Web]
+    DEV --> JAVA[Java]
+    DEV --> PHP[PHP]
+
+    SYS --> INFRA[Infraestructura]
+    SYS --> DB[Bases de datos]
+
+    AUTO --> PROC[Procesos]
+    AUTO --> INT[Integraciones]
+
+    AI --> TOOLS[AI Tools]
+    AI --> LEARN[Experimentación]
+
+    AUTO -. conecta .-> DATA
+    AUTO -. conecta .-> SYS
+    AI -. potencia .-> DEV
+```
+
+---
+
+## `> focus`
+
+| Área | En qué me enfoco |
+|---|---|
+| **Systems** | Arquitectura, infraestructura e integración |
+| **Development** | Software, web, backend e interfaces |
+| **Data** | SQL, análisis y Business Intelligence |
+| **Automation** | Procesos, integraciones y optimización |
+| **AI** | Herramientas, agentes y experimentación |
+| **Learning** | Ingeniería, tecnología y mejora continua |
+
+---
+
+## `> stack`
+
+```text
+Languages      PHP · Java · JavaScript · SQL · HTML · CSS
+Databases      MySQL · MariaDB · PostgreSQL · SQL Server
+Data & BI      Power BI · ETL · Reporting · Analytics
+Tools          Git · GitHub · NetBeans · VS Code · DBeaver
+Systems        Windows Server · Apache · Tomcat · Linux
+```
+
+---
+
+## `> philosophy`
+
+```text
+ENTENDER
+   ↓
+DISEÑAR
+   ↓
+CONSTRUIR
+   ↓
+CONECTAR
+   ↓
+AUTOMATIZAR
+   ↓
+MEJORAR
+```
+
+> La tecnología tiene más valor cuando conecta información, procesos y personas de una forma clara y útil.
+
+---
+
+## `> connect`
+
+**GitHub:** `@FernandoZL`  
+**LinkedIn:** [fernandozl](https://www.linkedin.com/in/fernandozl/)
+
+---
+
+<div align="center">
+
+### `THINK → BUILD → CONNECT → IMPROVE`
+
+**Luis Fernándo Zuñiga · FernandoZL**
+
+</div>
