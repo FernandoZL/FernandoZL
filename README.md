@@ -1,133 +1,70 @@
 <div align="center">
 
-# Luis Fernándo Zuñiga
+# Hola, soy Fernando 👋
 
-### Estudiante de Ingeniería en Sistemas
+### Desarrollo de software · Datos · Automatización
 
-`Tecnología` · `Desarrollo` · `Datos` · `Automatización` · `IA`
+Estudiante de Ingeniería en Sistemas en la Universidad Mariano Gálvez de Guatemala.
 
-**Aprender · Construir · Conectar · Mejorar**
+Construyo herramientas para organizar información, simplificar procesos y conectar ideas.
+
+[GitHub](https://github.com/FernandoZL) · [LinkedIn](https://www.linkedin.com/in/fernandozl/)
 
 </div>
 
 ---
 
-## `> whoami`
+## Sobre mí
 
-Soy **Luis Fernándo Zuñiga**, estudiante de **Ingeniería en Sistemas**.
+Soy **Luis Fernando Zuñiga Lemus**, de Guatemala. Combino mi formación en Sistemas con proyectos de desarrollo web, bases de datos y automatización.
 
-Me interesa comprender cómo se conectan la tecnología, los datos y los procesos para convertirlos en soluciones funcionales, ordenadas y útiles.
+Me interesa trabajar sobre problemas concretos: convertir un proceso manual en una herramienta, hacer que un reporte sea más claro o conectar información que estaba dispersa. Aprendo construyendo, probando y mejorando lo que ya funciona.
 
-Mi camino combina desarrollo de software, análisis de datos, automatización, infraestructura y exploración de nuevas tecnologías.
+## Lo que construyo
 
-```ts
-const lfz = {
-  nombre: "Luis Fernándo Zuñiga",
-  rol: "Estudiante de Ingeniería en Sistemas",
-  enfoque: [
-    "Desarrollo de software",
-    "Datos y Business Intelligence",
-    "Automatización",
-    "Sistemas e infraestructura",
-    "Inteligencia Artificial"
-  ],
-  mentalidad: "Aprender → Construir → Conectar → Mejorar"
-};
-```
+- **Aplicaciones de gestión:** herramientas para caja chica, soporte y seguimiento operativo, con atención a los permisos, la trazabilidad y la experiencia de uso.
+- **Datos y reportes:** consultas SQL, preparación de información e indicadores que ayuden a entender una operación.
+- **Automatización:** integraciones y flujos con Google Apps Script, Google Workspace y scripts.
+- **Herramientas de conocimiento:** Obsidian y memoria compartida para dar continuidad al trabajo entre asistentes de IA.
 
----
+## Proyecto destacado
 
-## `> knowledge_graph`
+### 🧠 [Neuronas para Obsidian](https://github.com/FernandoZL/obsidian)
 
-```mermaid
-graph TD
-    LFZ((LFZ))
+Un espacio para conectar notas, proyectos, tareas y recuerdos de asistentes de IA dentro de una bóveda de Obsidian.
 
-    LFZ --> DATA[Datos]
-    LFZ --> DEV[Desarrollo]
-    LFZ --> SYS[Sistemas]
-    LFZ --> AUTO[Automatización]
-    LFZ --> AI[Inteligencia Artificial]
+Incluye memoria compartida entre consolas, captura de conversaciones compatibles y organización del trabajo en Windows y Linux. Las notas permanecen en Markdown para poder consultarlas y editarlas.
 
-    DATA --> BI[Business Intelligence]
-    DATA --> SQL[SQL]
+**JavaScript · Node.js · Obsidian · MCP**
 
-    DEV --> WEB[Web]
-    DEV --> JAVA[Java]
-    DEV --> PHP[PHP]
+[Explorar el proyecto →](https://github.com/FernandoZL/obsidian)
 
-    SYS --> INFRA[Infraestructura]
-    SYS --> DB[Bases de datos]
+## Tecnologías con las que trabajo y aprendo
 
-    AUTO --> PROC[Procesos]
-    AUTO --> INT[Integraciones]
-
-    AI --> TOOLS[AI Tools]
-    AI --> LEARN[Experimentación]
-
-    AUTO -. conecta .-> DATA
-    AUTO -. conecta .-> SYS
-    AI -. potencia .-> DEV
-```
-
----
-
-## `> focus`
-
-| Área | En qué me enfoco |
+| Área | Tecnologías |
 |---|---|
-| **Systems** | Arquitectura, infraestructura e integración |
-| **Development** | Software, web, backend e interfaces |
-| **Data** | SQL, análisis y Business Intelligence |
-| **Automation** | Procesos, integraciones y optimización |
-| **AI** | Herramientas, agentes y experimentación |
-| **Learning** | Ingeniería, tecnología y mejora continua |
+| Desarrollo | PHP, Java, JavaScript, HTML y CSS |
+| Bases de datos | SQL, MySQL, MariaDB y SQL Server |
+| Datos | Power BI, ETL y reportes |
+| Automatización | Google Apps Script, Google Workspace y Python |
+| Entorno | Git, GitHub, NetBeans, VS Code, Windows y Linux |
 
----
+## En qué estoy enfocado
 
-## `> stack`
+- Seguir fortaleciendo programación, bases de datos y diseño de aplicaciones durante mi formación universitaria.
+- Mejorar herramientas de gestión mediante pruebas, documentación y cambios que se puedan mantener.
+- Explorar asistentes de IA como apoyo para programar, investigar y organizar conocimiento.
 
-```text
-Languages      PHP · Java · JavaScript · SQL · HTML · CSS
-Databases      MySQL · MariaDB · PostgreSQL · SQL Server
-Data & BI      Power BI · ETL · Reporting · Analytics
-Tools          Git · GitHub · NetBeans · VS Code · DBeaver
-Systems        Windows Server · Apache · Tomcat · Linux
-```
+## Más proyectos
 
----
-
-## `> philosophy`
-
-```text
-ENTENDER
-   ↓
-DISEÑAR
-   ↓
-CONSTRUIR
-   ↓
-CONECTAR
-   ↓
-AUTOMATIZAR
-   ↓
-MEJORAR
-```
-
-> La tecnología tiene más valor cuando conecta información, procesos y personas de una forma clara y útil.
-
----
-
-## `> connect`
-
-**GitHub:** `@FernandoZL`  
-**LinkedIn:** [fernandozl](https://www.linkedin.com/in/fernandozl/)
+[PartidasUMG](https://github.com/FernandoZL/PartidasUMG) · [ScriptPy](https://github.com/FernandoZL/ScriptPy) · [Ver mis repositorios](https://github.com/FernandoZL?tab=repositories)
 
 ---
 
 <div align="center">
 
-### `THINK → BUILD → CONNECT → IMPROVE`
+**Aprender → Construir → Conectar → Mejorar**
 
-**Luis Fernándo Zuñiga · FernandoZL**
+FernandoZL · Guatemala
 
 </div>
