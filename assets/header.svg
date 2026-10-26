@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">FernandoZL — ideas que se conectan</title>
+  <desc id="desc">Cabecera violeta con una red de nodos que representa desarrollo, datos y automatización.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#151126"/><stop offset="1" stop-color="#29204b"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#c4b5fd" opacity=".12"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2" opacity=".5">
+    <path d="M820 160 920 70 1055 110 1100 230 940 260 820 160 1055 110M920 70 940 260M820 160 1100 230"/>
+    <path d="M755 65 820 160 745 265M1055 110 1140 55M1100 230 1160 285"/>
+  </g>
+  <g fill="#a78bfa"><circle cx="820" cy="160" r="16"/><circle cx="920" cy="70" r="9"/><circle cx="940" cy="260" r="10"/><circle cx="755" cy="65" r="5"/><circle cx="745" cy="265" r="5"/></g>
+  <g fill="#67e8f9"><circle cx="1055" cy="110" r="12"/><circle cx="1100" cy="230" r="9"/><circle cx="1140" cy="55" r="5"/><circle cx="1160" cy="285" r="5"/></g>
+  <text x="64" y="91" fill="#c4b5fd" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="5">APRENDER · CONSTRUIR · CONECTAR</text>
+  <text x="60" y="170" fill="#f5f3ff" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700">FernandoZL</text>
+  <text x="64" y="216" fill="#ddd6fe" font-family="Segoe UI,Arial,sans-serif" font-size="23">Desarrollo · Datos · Automatización</text>
+  <rect x="64" y="250" width="48" height="4" rx="2" fill="#67e8f9"/>
+  <text x="128" y="258" fill="#a5a0ba" font-family="Segoe UI,Arial,sans-serif" font-size="16">Ideas que se convierten en herramientas.</text>
+</svg>
