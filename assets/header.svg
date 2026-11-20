@@ -3,7 +3,7 @@
 <desc id="d">Nombre y un flujo animado: SQL Server, Odoo y SAP pasan por ETL y UiPath hacia Power BI, que entrega KPIs y decisiones.</desc>
 <defs><radialGradient id="g" cx="75%" cy="50%" r="60%"><stop offset="0" stop-color="#18224a"/><stop offset="1" stop-color="#0b0f1a"/></radialGradient></defs>
 <rect width="1200" height="340" rx="16" fill="url(#g)"/>
-<text x="56" y="96" fill="#97a1bb" font-family="Consolas, monospace" font-size="14" letter-spacing="1.5">BUSINESS INTELLIGENCE &amp; TI</text>
+<text x="56" y="96" fill="#97a1bb" font-family="Consolas, monospace" font-size="14" letter-spacing="1.5">BI · AUTOMATIZACIÓN · DESARROLLO</text>
 <text x="52" y="166" fill="#eef1f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.5">Luis Fernándo</text>
 <text x="52" y="230" fill="#97a1bb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="300" letter-spacing="-1.5">Zuñiga Lemus</text>
 <text x="56" y="278" fill="#eef1f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600">Primero entiendo el proceso, <tspan fill="#7390ff">después lo mido</tspan></text>

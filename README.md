@@ -1,6 +1,6 @@
 ![Luis Fernándo Zuñiga Lemus · Business Intelligence & TI](assets/header.svg)
 
-Analista Sr. de BI y TI en Guatemala. Llegué a los datos desde el comercio exterior y la mejora continua, y cuando hace falta programo la aplicación que genera la información.
+Llegué a los datos desde el comercio exterior y la mejora continua. Cuando hace falta, programo la aplicación que genera la información.
 
 **[Portafolio](https://fernandozl.github.io)** · **[LinkedIn](https://www.linkedin.com/in/fernandozl/)**
 
