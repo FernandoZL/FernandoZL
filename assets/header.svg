@@ -7,15 +7,15 @@
   <text x="58" y="146" fill="#161a22" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.5">Luis Fernándo Zuñiga Lemus</text>
   <text x="60" y="190" fill="#5b6270" font-family="Georgia, 'Times New Roman', serif" font-size="22">Ordeno los datos de una empresa para que las decisiones se tomen con números claros.</text>
   <g font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#5b6270">
-    <text x="60" y="236">2014</text><text x="1104" y="236">2026</text>
+    <text x="60" y="236">2014</text><text x="1048" y="236">2026</text>
   </g>
   <rect x="60" y="246" width="1080" height="2" fill="#e1e4ea"/>
-  <rect x="98" y="242" width="373" height="10" rx="3" fill="#8d97a9"/>
-  <rect x="547" y="242" width="235" height="10" rx="3" fill="#8d97a9"/>
-  <rect x="784" y="242" width="52" height="10" rx="3" fill="#2c9a74"/>
-  <rect x="838" y="242" width="58" height="10" rx="3" fill="#2f5bea"/>
-  <rect x="917" y="242" width="35" height="10" rx="3" fill="#2f5bea"/>
-  <rect x="954" y="242" width="96" height="10" rx="3" fill="#c9821a"/>
+  <rect x="123" y="242" width="413" height="10" rx="3" fill="#8d97a9"/>
+  <rect x="625" y="242" width="252" height="10" rx="3" fill="#8d97a9"/>
+  <rect x="879" y="242" width="51" height="10" rx="3" fill="#2c9a74"/>
+  <rect x="932" y="242" width="57" height="10" rx="3" fill="#2f5bea"/>
+  <rect x="1013" y="242" width="33" height="10" rx="3" fill="#2f5bea"/>
+  <rect x="1048" y="242" width="92" height="10" rx="3" fill="#c9821a"/>
   <g font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#5b6270">
     <rect x="60" y="268" width="10" height="10" rx="2" fill="#8d97a9"/><text x="76" y="277">Comercio exterior</text>
     <rect x="230" y="268" width="10" height="10" rx="2" fill="#2c9a74"/><text x="246" y="277">Mejora continua</text>
