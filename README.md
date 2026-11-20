@@ -1,30 +1,24 @@
-![Luis Fernándo Zuñiga Lemus · Business Intelligence](assets/header.svg)
+![Luis Fernándo Zuñiga Lemus · Business Intelligence & TI](assets/header.svg)
 
-Analista Sr. de **Business Intelligence & TI** en Guatemala. Antes pasé años en comercio exterior y mejora continua; por eso primero entiendo el proceso y después lo mido. Cuando hace falta, también programo la aplicación que genera la información.
+Analista Sr. de BI y TI en Guatemala. Llegué a los datos desde el comercio exterior y la mejora continua, y cuando hace falta programo la aplicación que genera la información.
 
 **[Portafolio](https://fernandozl.github.io)** · **[LinkedIn](https://www.linkedin.com/in/fernandozl/)**
 
-## Cómo fluye mi trabajo
+### Trayectoria
 
-![Del origen a las decisiones: integración, almacén analítico y tableros](assets/flujo.svg)
-
-## Herramientas
-
-| Área | Stack |
+| Años | Puesto |
 |---|---|
-| BI | Power BI, DAX, Looker Studio |
-| Bases de datos | SQL Server, MariaDB, Excel avanzado, Power Query |
-| Automatización | UiPath, Power Automate, Python, Google Apps Script, PowerShell |
-| Desarrollo | PHP, C# y ASP.NET Core, Kotlin, JavaScript |
-| ERP | SAP, Odoo |
+| 2025 – hoy | Analista Sr. Business Intelligence & TI |
+| 2025 | Analista de Desempeño y BI |
+| 2024 – 2025 | Business Intelligence Operaciones |
+| 2023 – 2024 | Analista de Mejora Continua |
+| 2014 – 2023 | Comercio exterior |
 
-## Proyectos públicos
+### Casos
 
-| Proyecto | Qué es |
-|---|---|
-| [Neuronas para Obsidian](https://github.com/FernandoZL/obsidian) | Plugin y servidor MCP que comparten memoria entre asistentes de IA. |
-| [Portafolio](https://github.com/FernandoZL/FernandoZL.github.io) | Código de mi sitio personal. |
-| [PartidasUMG](https://github.com/FernandoZL/PartidasUMG) | Proyecto universitario. |
-| [ScriptPy](https://github.com/FernandoZL/ScriptPy) | Scripts en Python. |
+- **BI corporativo:** almacén analítico y tablero de dirección con semáforos y glosario.
+- **Robots en distribución:** tareas repetitivas automatizadas con UiPath y Power Automate.
+- **Metas de franquicias:** seguimiento con SQL Server, Odoo y estados bancarios.
+- **[Neuronas para Obsidian](https://github.com/FernandoZL/obsidian):** memoria compartida entre asistentes de IA, de código abierto.
 
-Casi todo lo demás vive en repositorios privados de empresa; el portafolio explica esos casos sin mostrar información interna.
+El detalle de cada caso está en el portafolio.
