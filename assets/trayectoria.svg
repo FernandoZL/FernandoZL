@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="t2">
+<title id="t2">Trayectoria 2014 a 2026: comercio exterior, mejora continua, Business Intelligence y BI y TI</title>
+<rect width="1200" height="170" rx="18" fill="#0b0f1a"/>
+<line x1="40" x2="40" y1="42" y2="104" stroke="#242d47"/><text x="44" y="34" fill="#97a1bb" font-family="Consolas, monospace" font-size="12">2014</text>
+<line x1="126" x2="126" y1="42" y2="104" stroke="#242d47"/><text x="130" y="34" fill="#97a1bb" font-family="Consolas, monospace" font-size="12">2015</text>
+<line x1="212" x2="212" y1="42" y2="104" stroke="#242d47"/><text x="216" y="34" fill="#97a1bb" font-family="Consolas, monospace" font-size="12">2016</text>
+<line x1="298" x2="298" y1="42" y2="104" stroke="#242d47"/><text x="302" y="34" fill="#97a1bb" font-family="Consolas, monospace" font-size="12">2017</text>
+<line x1="385" x2="385" y1="42" y2="104" stroke="#242d47"/><text x="389" y="34" fill="#97a1bb" font-family="Consolas, monospace" font-size="12">2018</text>
+<line x1="471" x2="471" y1="42" y2="104" stroke="#242d47"/><text x="475" y="34" fill="#97a1bb" font-family="Consolas, monospace" font-size="12">2019</text>
+<line x1="557" x2="557" y1="42" y2="104" stroke="#242d47"/><text x="561" y="34" fill="#97a1bb" font-family="Consolas, monospace" font-size="12">2020</text>
+<line x1="643" x2="643" y1="42" y2="104" stroke="#242d47"/><text x="647" y="34" fill="#97a1bb" font-family="Consolas, monospace" font-size="12">2021</text>
+<line x1="729" x2="729" y1="42" y2="104" stroke="#242d47"/><text x="733" y="34" fill="#97a1bb" font-family="Consolas, monospace" font-size="12">2022</text>
+<line x1="815" x2="815" y1="42" y2="104" stroke="#242d47"/><text x="819" y="34" fill="#97a1bb" font-family="Consolas, monospace" font-size="12">2023</text>
+<line x1="902" x2="902" y1="42" y2="104" stroke="#242d47"/><text x="906" y="34" fill="#97a1bb" font-family="Consolas, monospace" font-size="12">2024</text>
+<line x1="988" x2="988" y1="42" y2="104" stroke="#242d47"/><text x="992" y="34" fill="#97a1bb" font-family="Consolas, monospace" font-size="12">2025</text>
+<line x1="1074" x2="1074" y1="42" y2="104" stroke="#242d47"/><text x="1078" y="34" fill="#97a1bb" font-family="Consolas, monospace" font-size="12">2026</text>
+<rect x="105" y="56" height="34" rx="8" fill="#8792ab" width="424"><animate attributeName="width" values="0;424" dur=".8s" begin="0.00s" fill="freeze"/></rect>
+<text x="115" y="78" fill="#0b0f1a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Exportaciones</text>
+<rect x="622" y="56" height="34" rx="8" fill="#8792ab" width="259"><animate attributeName="width" values="0;259" dur=".8s" begin="0.25s" fill="freeze"/></rect>
+<text x="632" y="78" fill="#0b0f1a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Import / Export</text>
+<rect x="883" y="56" height="34" rx="8" fill="#3ccfa0" width="51"><animate attributeName="width" values="0;51" dur=".8s" begin="0.50s" fill="freeze"/></rect>
+<rect x="938" y="56" height="34" rx="8" fill="#7390ff" width="57"><animate attributeName="width" values="0;57" dur=".8s" begin="0.75s" fill="freeze"/></rect>
+<text x="948" y="78" fill="#0b0f1a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">BI</text>
+<rect x="1020" y="56" height="34" rx="8" fill="#7390ff" width="33"><animate attributeName="width" values="0;33" dur=".8s" begin="1.00s" fill="freeze"/></rect>
+<rect x="1056" y="56" height="34" rx="8" fill="#f5a742" width="93"><animate attributeName="width" values="0;93" dur=".8s" begin="1.25s" fill="freeze"/></rect>
+<text x="1066" y="78" fill="#0b0f1a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">BI &amp; TI</text>
+<line x1="1150" x2="1150" y1="42" y2="104" stroke="#f5a742" stroke-dasharray="3 3"/>
+<rect x="40" y="128" width="12" height="12" rx="3" fill="#8792ab"/><text x="60" y="139" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">Comercio exterior</text>
+<rect x="216" y="128" width="12" height="12" rx="3" fill="#3ccfa0"/><text x="236" y="139" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">Mejora continua</text>
+<rect x="376" y="128" width="12" height="12" rx="3" fill="#7390ff"/><text x="396" y="139" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">Business Intelligence</text>
+<rect x="584" y="128" width="12" height="12" rx="3" fill="#f5a742"/><text x="604" y="139" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">BI y TI</text>
+</svg>
