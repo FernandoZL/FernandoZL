@@ -32,11 +32,6 @@ flowchart LR
 | Desarrollo | PHP, C# y ASP.NET Core, Kotlin, JavaScript |
 | ERP | SAP, Odoo |
 
-## Resultados
-
-- Hasta **40% menos tiempo** en procesos automatizados.
-- **Eficiencia +30%** en operaciones y distribución.
-
 ## Proyectos públicos
 
 | Proyecto | Qué es |
