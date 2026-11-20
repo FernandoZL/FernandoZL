@@ -1,25 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
-  <title id="t">Luis Fernándo Zuñiga Lemus · Business Intelligence</title>
-  <desc id="d">Cabecera con el nombre y una línea de tiempo de la trayectoria: comercio exterior, mejora continua, Business Intelligence y BI y TI.</desc>
-  <rect width="1200" height="300" rx="16" fill="#f7f8fa"/>
-  <rect x=".5" y=".5" width="1199" height="299" rx="16" fill="none" stroke="#e1e4ea"/>
-  <text x="60" y="76" fill="#5b6270" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="1.5">BUSINESS INTELLIGENCE · POWER BI · SQL · AUTOMATIZACIÓN</text>
-  <text x="58" y="146" fill="#161a22" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.5">Luis Fernándo Zuñiga Lemus</text>
-  <text x="60" y="190" fill="#5b6270" font-family="Georgia, 'Times New Roman', serif" font-size="22">Ordeno los datos de una empresa para que las decisiones se tomen con números claros.</text>
-  <g font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#5b6270">
-    <text x="60" y="236">2014</text><text x="1048" y="236">2026</text>
-  </g>
-  <rect x="60" y="246" width="1080" height="2" fill="#e1e4ea"/>
-  <rect x="123" y="242" width="413" height="10" rx="3" fill="#8d97a9"/>
-  <rect x="625" y="242" width="252" height="10" rx="3" fill="#8d97a9"/>
-  <rect x="879" y="242" width="51" height="10" rx="3" fill="#2c9a74"/>
-  <rect x="932" y="242" width="57" height="10" rx="3" fill="#2f5bea"/>
-  <rect x="1013" y="242" width="33" height="10" rx="3" fill="#2f5bea"/>
-  <rect x="1048" y="242" width="92" height="10" rx="3" fill="#c9821a"/>
-  <g font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#5b6270">
-    <rect x="60" y="268" width="10" height="10" rx="2" fill="#8d97a9"/><text x="76" y="277">Comercio exterior</text>
-    <rect x="230" y="268" width="10" height="10" rx="2" fill="#2c9a74"/><text x="246" y="277">Mejora continua</text>
-    <rect x="390" y="268" width="10" height="10" rx="2" fill="#2f5bea"/><text x="406" y="277">Business Intelligence</text>
-    <rect x="590" y="268" width="10" height="10" rx="2" fill="#c9821a"/><text x="606" y="277">BI y TI</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="t d">
+<title id="t">Luis Fernándo Zuñiga Lemus · Business Intelligence</title>
+<desc id="d">Cabecera con una red animada de herramientas de datos: fuentes como SQL Server, Odoo y SAP pasan por ETL hacia Power BI y sus KPIs, con automatización en UiPath, Python y Power Automate.</desc>
+<defs><radialGradient id="g" cx="78%" cy="45%" r="55%"><stop offset="0" stop-color="#1b2550"/><stop offset="1" stop-color="#0b0f1a"/></radialGradient></defs>
+<rect width="1200" height="330" rx="16" fill="url(#g)"/>
+<text x="60" y="88" fill="#97a1bb" font-family="Consolas, monospace" font-size="14" letter-spacing="1.5">BUSINESS INTELLIGENCE · AUTOMATIZACIÓN</text>
+<text x="56" y="160" fill="#eef1f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" font-weight="800" letter-spacing="-1.5">Luis Fernándo</text>
+<text x="56" y="226" fill="#97a1bb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" font-weight="300" letter-spacing="-1.5">Zuñiga Lemus</text>
+<text x="60" y="274" fill="#eef1f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600">Convierto datos en <tspan fill="#7390ff">decisiones</tspan></text>
+<g stroke="#7390ff" stroke-width="1.2">
+<line x1="850" y1="62" x2="760" y2="118" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="3s" begin="0.00s" repeatCount="indefinite"/></line>
+<line x1="700" y1="70" x2="760" y2="118" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="4s" begin="0.37s" repeatCount="indefinite"/></line>
+<line x1="760" y1="118" x2="800" y2="222" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="5s" begin="0.74s" repeatCount="indefinite"/></line>
+<line x1="655" y1="170" x2="800" y2="222" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="6s" begin="1.11s" repeatCount="indefinite"/></line>
+<line x1="690" y1="262" x2="800" y2="222" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="3s" begin="1.48s" repeatCount="indefinite"/></line>
+<line x1="690" y1="262" x2="655" y2="170" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="4s" begin="1.85s" repeatCount="indefinite"/></line>
+<line x1="800" y1="222" x2="920" y2="160" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="5s" begin="2.22s" repeatCount="indefinite"/></line>
+<line x1="760" y1="118" x2="920" y2="160" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="6s" begin="2.59s" repeatCount="indefinite"/></line>
+<line x1="850" y1="62" x2="920" y2="160" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="3s" begin="2.96s" repeatCount="indefinite"/></line>
+<line x1="920" y1="160" x2="1030" y2="84" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="4s" begin="0.33s" repeatCount="indefinite"/></line>
+<line x1="920" y1="160" x2="1100" y2="182" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="5s" begin="0.70s" repeatCount="indefinite"/></line>
+<line x1="1030" y1="84" x2="1100" y2="182" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="6s" begin="1.07s" repeatCount="indefinite"/></line>
+<line x1="920" y1="160" x2="975" y2="262" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="3s" begin="1.44s" repeatCount="indefinite"/></line>
+<line x1="975" y1="262" x2="1040" y2="292" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="4s" begin="1.81s" repeatCount="indefinite"/></line>
+<line x1="1040" y1="292" x2="1100" y2="182" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="5s" begin="2.18s" repeatCount="indefinite"/></line>
+<line x1="700" y1="70" x2="655" y2="170" opacity=".35"><animate attributeName="opacity" values=".18;.5;.18" dur="6s" begin="2.55s" repeatCount="indefinite"/></line>
+</g>
+<circle r="3.5" fill="#f5a742"><animateMotion dur="4s" begin="0.0s" repeatCount="indefinite" path="M760 118 L800 222 L920 160 L1100 182"/></circle>
+<circle r="3.5" fill="#f5a742"><animateMotion dur="5s" begin="1.3s" repeatCount="indefinite" path="M690 262 L800 222 L920 160 L1030 84"/></circle>
+<circle r="3.5" fill="#f5a742"><animateMotion dur="6s" begin="2.6s" repeatCount="indefinite" path="M850 62 L920 160 L975 262 L1040 292"/></circle>
+<circle cx="850" cy="62" r="5" fill="#7390ff"><animate attributeName="r" values="5;7;5" dur="2.5s" repeatCount="indefinite"/></circle>
+<text x="861" y="66" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">Odoo</text>
+<circle cx="760" cy="118" r="7" fill="#7390ff"><animate attributeName="r" values="7;9;7" dur="3.2s" repeatCount="indefinite"/></circle>
+<text x="773" y="122" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">SQL Server</text>
+<circle cx="655" cy="170" r="5" fill="#f5a742"><animate attributeName="r" values="5;7;5" dur="3.9s" repeatCount="indefinite"/></circle>
+<text x="666" y="174" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">Python</text>
+<circle cx="800" cy="222" r="7" fill="#7390ff"><animate attributeName="r" values="7;9;7" dur="2.5s" repeatCount="indefinite"/></circle>
+<text x="813" y="226" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">ETL</text>
+<circle cx="690" cy="262" r="5" fill="#f5a742"><animate attributeName="r" values="5;7;5" dur="3.2s" repeatCount="indefinite"/></circle>
+<text x="701" y="266" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">UiPath</text>
+<circle cx="920" cy="160" r="9" fill="#7390ff"><animate attributeName="r" values="9;11;9" dur="3.9s" repeatCount="indefinite"/></circle>
+<text x="935" y="164" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">Power BI</text>
+<circle cx="1030" cy="84" r="5" fill="#7390ff"><animate attributeName="r" values="5;7;5" dur="2.5s" repeatCount="indefinite"/></circle>
+<text x="1041" y="88" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">DAX</text>
+<circle cx="1100" cy="182" r="5" fill="#7390ff"><animate attributeName="r" values="5;7;5" dur="3.2s" repeatCount="indefinite"/></circle>
+<text x="1111" y="186" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">KPIs</text>
+<circle cx="975" cy="262" r="5" fill="#7390ff"><animate attributeName="r" values="5;7;5" dur="3.9s" repeatCount="indefinite"/></circle>
+<text x="986" y="266" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">Excel</text>
+<circle cx="1040" cy="292" r="5" fill="#f5a742"><animate attributeName="r" values="5;7;5" dur="2.5s" repeatCount="indefinite"/></circle>
+<text x="1051" y="296" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">Power Automate</text>
+<circle cx="700" cy="70" r="5" fill="#7390ff"><animate attributeName="r" values="5;7;5" dur="3.2s" repeatCount="indefinite"/></circle>
+<text x="711" y="74" fill="#c9d0e0" font-family="Consolas, monospace" font-size="13">SAP</text>
 </svg>
