@@ -1,22 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">FernandoZL — ideas que se conectan</title>
-  <desc id="desc">Cabecera violeta con una red de nodos que representa desarrollo, datos y automatización.</desc>
-  <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#151126"/><stop offset="1" stop-color="#29204b"/></linearGradient>
-    <linearGradient id="line"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#c4b5fd" opacity=".12"/></pattern>
-  </defs>
-  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
-  <g fill="none" stroke="url(#line)" stroke-width="2" opacity=".5">
-    <path d="M820 160 920 70 1055 110 1100 230 940 260 820 160 1055 110M920 70 940 260M820 160 1100 230"/>
-    <path d="M755 65 820 160 745 265M1055 110 1140 55M1100 230 1160 285"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Luis Fernándo Zuñiga Lemus · Business Intelligence</title>
+  <desc id="d">Cabecera con el nombre y una línea de tiempo de la trayectoria: comercio exterior, mejora continua, Business Intelligence y BI y TI.</desc>
+  <rect width="1200" height="300" rx="16" fill="#f7f8fa"/>
+  <rect x=".5" y=".5" width="1199" height="299" rx="16" fill="none" stroke="#e1e4ea"/>
+  <text x="60" y="76" fill="#5b6270" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="1.5">BUSINESS INTELLIGENCE · POWER BI · SQL · AUTOMATIZACIÓN</text>
+  <text x="58" y="146" fill="#161a22" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.5">Luis Fernándo Zuñiga Lemus</text>
+  <text x="60" y="190" fill="#5b6270" font-family="Georgia, 'Times New Roman', serif" font-size="22">Ordeno los datos de una empresa para que las decisiones se tomen con números claros.</text>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#5b6270">
+    <text x="60" y="236">2014</text><text x="1104" y="236">2026</text>
   </g>
-  <g fill="#a78bfa"><circle cx="820" cy="160" r="16"/><circle cx="920" cy="70" r="9"/><circle cx="940" cy="260" r="10"/><circle cx="755" cy="65" r="5"/><circle cx="745" cy="265" r="5"/></g>
-  <g fill="#67e8f9"><circle cx="1055" cy="110" r="12"/><circle cx="1100" cy="230" r="9"/><circle cx="1140" cy="55" r="5"/><circle cx="1160" cy="285" r="5"/></g>
-  <text x="64" y="91" fill="#c4b5fd" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="5">APRENDER · CONSTRUIR · CONECTAR</text>
-  <text x="60" y="170" fill="#f5f3ff" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700">FernandoZL</text>
-  <text x="64" y="216" fill="#ddd6fe" font-family="Segoe UI,Arial,sans-serif" font-size="23">Desarrollo · Datos · Automatización</text>
-  <rect x="64" y="250" width="48" height="4" rx="2" fill="#67e8f9"/>
-  <text x="128" y="258" fill="#a5a0ba" font-family="Segoe UI,Arial,sans-serif" font-size="16">Ideas que se convierten en herramientas.</text>
+  <rect x="60" y="246" width="1080" height="2" fill="#e1e4ea"/>
+  <rect x="98" y="242" width="373" height="10" rx="3" fill="#8d97a9"/>
+  <rect x="547" y="242" width="235" height="10" rx="3" fill="#8d97a9"/>
+  <rect x="784" y="242" width="52" height="10" rx="3" fill="#2c9a74"/>
+  <rect x="838" y="242" width="58" height="10" rx="3" fill="#2f5bea"/>
+  <rect x="917" y="242" width="35" height="10" rx="3" fill="#2f5bea"/>
+  <rect x="954" y="242" width="96" height="10" rx="3" fill="#c9821a"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#5b6270">
+    <rect x="60" y="268" width="10" height="10" rx="2" fill="#8d97a9"/><text x="76" y="277">Comercio exterior</text>
+    <rect x="230" y="268" width="10" height="10" rx="2" fill="#2c9a74"/><text x="246" y="277">Mejora continua</text>
+    <rect x="390" y="268" width="10" height="10" rx="2" fill="#2f5bea"/><text x="406" y="277">Business Intelligence</text>
+    <rect x="590" y="268" width="10" height="10" rx="2" fill="#c9821a"/><text x="606" y="277">BI y TI</text>
+  </g>
 </svg>
